@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-using System.Diagnostics;
-
 public class GameScript : MonoBehaviour {
 	
 	private Vector3 currentPosition;
